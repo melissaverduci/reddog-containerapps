@@ -1,6 +1,6 @@
 # *nix only
-export RG="reddog"
-export LOCATION="eastus2"
+export RG="containerapp_reddog"
+export LOCATION="northeurope"
 export SUB_ID="<YourSubscriptionID>"
 
 # Follow Azure CLI prompts to authenticate to your subscription of choice
